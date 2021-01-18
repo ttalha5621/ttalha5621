@@ -2,7 +2,7 @@
 #### Front-end Developer
 
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS / Bootstrap 4.5 / React JS / Material-UI
 
 - 🔭 I’m currently working on JavaScript 
 - 🌱 I’m currently learning JavaScript, Jquery 
