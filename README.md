@@ -1,48 +1,66 @@
 <div align="center">
 
-# ✨ Talha Rizwan
+# Hi, I'm Talha Rizwan
 
-### Full Stack Web Developer | JavaScript Enthusiast | Problem Solver
+### Full Stack Web Developer | JavaScript Enthusiast | ERP & GIS Solutions Builder
+
+I build clean, scalable, business-focused web applications with modern JavaScript, React, Node.js, databases, and location-based tools.
+
+<br />
+
+[![Fiverr](https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/7YPjrrb)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ttalha5621)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a dedicated **Full Stack Web Developer** crafting elegant, scalable solutions with a deep passion for **JavaScript**. My philosophy centers on building intuitive applications that seamlessly bridge technology and user experience. Driven by curiosity and a commitment to excellence, I transform complex challenges into refined digital experiences.
+I'm a dedicated **Full Stack Web Developer** focused on crafting elegant, reliable, and scalable digital products. I enjoy turning complex business problems into intuitive applications that are easy to use, easy to maintain, and built with purpose.
+
+My work blends practical engineering, thoughtful UI, and strong backend architecture, especially for **ERP systems**, **React applications**, and **GIS-powered platforms**.
 
 ---
 
-## 💼 Technical Expertise
+## Technical Expertise
 
 <table>
 <tr>
-<td>
+<td valign="top" width="33%">
 
-**Frontend Mastery**
+### Frontend
+
 - JavaScript (ES6+)
-- ReactJS & Redux
-- HTML5 & CSS3
-- Responsive Design
+- ReactJS
+- Redux
+- HTML5
+- CSS3
+- Responsive UI
 
 </td>
-<td>
+<td valign="top" width="33%">
 
-**Backend Excellence**
-- Node.js & Express
+### Backend
+
+- Node.js
+- Express.js
 - REST APIs
 - Prisma ORM
-- Database Architecture
+- Authentication
+- API Architecture
 
 </td>
-<td>
+<td valign="top" width="33%">
 
-**Database & GIS**
+### Database & GIS
+
 - PostgreSQL
 - MongoDB
-- Mapbox Integration
 - Data Modeling
+- Mapbox
+- GIS Features
+- Location-Based Apps
 
 </td>
 </tr>
@@ -50,42 +68,39 @@ I'm a dedicated **Full Stack Web Developer** crafting elegant, scalable solution
 
 ---
 
-## 🚀 Current Focus
+## What I'm Building
 
-Building enterprise-grade solutions with precision and innovation:
-
-- 🏢 **End-to-End ERP Systems** — Architecting comprehensive business solutions
-- ⚛️ **Scalable ReactJS Applications** — Crafting performant, maintainable interfaces
-- 🗺️ **GIS Development** — Leveraging Mapbox for location-based insights
-
----
-
-## 🎨 Vision & Goals
-
-My mission is to create **multiple ERP solutions** and **full-stack ReactJS applications** that empower businesses, streamline operations, and deliver measurable impact. I believe in building with purpose and excellence.
+- **End-to-end ERP systems** for real business workflows
+- **Scalable ReactJS applications** with clean, maintainable interfaces
+- **GIS-enabled platforms** using Mapbox and location intelligence
+- **Full-stack products** that connect polished frontend experiences with strong backend systems
 
 ---
 
-## 🤝 Let's Connect
+## Services
+
+Need a dependable developer for your next web app, ERP module, dashboard, API, or GIS feature?
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Talha%20Rizwan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ttalha5621)
+### Let's build something useful, polished, and production-ready.
+
+[![Order on Fiverr](https://img.shields.io/badge/Start%20a%20Project%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/7YPjrrb)
 
 </div>
 
 ---
 
-## 💭 Philosophy
+## Philosophy
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-I thrive on **continuous learning**, staying ahead of industry trends, and delivering solutions that are not just functional, but beautifully crafted.
+I believe great software should feel simple on the surface and solid underneath. My goal is to build solutions that help businesses move faster, work smarter, and scale with confidence.
 
 ---
 
 <div align="center">
 
-*Building the future, one line of code at a time.* ✨
+**Building practical web solutions, one thoughtful feature at a time.**
 
 </div>
