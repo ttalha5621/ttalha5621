@@ -3,13 +3,12 @@ name: Talha Rizwan
 ---
 
 <div align="center">
-  <h1>Talha Rizwan</h1>
-  <p><strong>Full Stack Web Developer | UI/UX-Focused | ERP & GIS Solutions Expert</strong></p>
-  <p>Designing polished interfaces and scalable backend systems with modern web technologies.</p>
-
+  <h1>✨ Talha Rizwan</h1>
+  <p><strong>Full Stack Web Developer | ERP & GIS Solutions | UI/UX-Driven</strong></p>
+  <p>Crafting modern web applications, scalable APIs, and interactive mapping experiences.</p>
   <p>
-    <a href="https://www.fiverr.com/s/7YPjrrb"><img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Me on Fiverr"></a>
-    <a href="https://www.linkedin.com/in/ttalha5621"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+    <a href="https://www.fiverr.com/s/7YPjrrb"><img src="https://img.shields.io/badge/Work%20With%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Work With Me"></a>
+    <a href="https://www.linkedin.com/in/ttalha5621"><img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect"></a>
   </p>
 </div>
 
@@ -17,11 +16,11 @@ name: Talha Rizwan
 
 ## About Me
 
-Experienced Full Stack Web Developer with 8+ years delivering modern, user-centered applications. I focus on clean UI, strong frontend architecture, and robust backend services for ERP, dashboard, and GIS-enabled platforms.
+Experienced Full Stack Web Developer with 8+ years of building business-critical applications, dashboards, and GIS workflows.
 
-- Expert in building responsive and professional user interfaces.
-- Strong ability to convert business requirements into maintainable software.
-- Skilled at integrating frontend design, APIs, databases, and geospatial systems.
+- I design intuitive interfaces, scalable backend systems, and spatial web experiences.
+- I translate complex business requirements into maintainable, high-performance code.
+- I deliver thoughtful products that balance usability, reliability, and speed.
 
 ---
 
@@ -42,63 +41,57 @@ Experienced Full Stack Web Developer with 8+ years delivering modern, user-cente
 </td>
 <td>
 
-**Backend Excellence**
+**Backend & API**
 - Node.js, Express.js, NestJS
 - RESTful APIs, GraphQL
-- Authentication & authorization with JWT
+- Authentication & JWT
 - Prisma ORM, PostgreSQL, MongoDB
 - Microservices with Docker
-- API design, server-side validation, performance tuning
+- Server-side performance tuning
 
 </td>
 <td>
 
 **Database & GIS**
 - PostgreSQL, MongoDB
-- SQL / NoSQL modeling
+- SQL / NoSQL data modeling
 - Mapbox GL JS, Leaflet
 - Geocoding, routing, spatial queries
 - Location intelligence
-- Data visualization
+- Dashboard data visualization
 
 </td>
 </tr>
 </table>
 
-### Languages & Technologies
+---
+
+## Technology Stack
+
 - JavaScript, TypeScript, HTML, CSS
 - SQL, NoSQL, JSON, Git
-- Docker, Kubernetes, Linux development
-- Mapbox GL JS, Leaflet, geospatial queries
-- GIS concepts: geocoding, routing, mapping, location intelligence
-
-### Tools & Collaboration
-- VS Code, Git, GitHub
-- Agile workflows, product planning, code reviews
-- Figma, UI prototyping, wireframes
-- Jira, Trello, Slack collaboration
+- Docker, Kubernetes, Linux
+- Mapbox GL JS, Leaflet, GeoJSON
+- Figma, UI prototyping, agile collaboration
 
 ---
 
-## Professional Experience
+## What I Build
 
-I build practical web solutions for businesses that need modern ERP systems, analytics dashboards, and location-aware applications.
-
-- ERP systems: CRM, HR, Inventory, Finance, and operations modules
-- React applications: scalable state management and polished UX
-- GIS solutions: interactive maps, routing, spatial data visualization
-- Full-stack products: frontend, backend, database, and deployment
+- **ERP & business systems** that streamline workflows and support growth.
+- **React applications** with polished UX and scalable state management.
+- **GIS solutions** for mapping, routing, and spatial analysis.
+- **APIs and integrations** that connect frontend, backend, and data.
 
 ---
 
-## Services Offered
+## Services
 
 - Full-stack web application development
-- UI/UX design and responsive frontend builds
-- ERP and workflow automation systems
-- GIS and mapping application development
-- API design and backend architecture
-- Database modeling and integration
+- UI / UX design and responsive frontend work
+- ERP modules, dashboards, and workflow automation
+- GIS mapping, routing, and geospatial features
+- API architecture, backend engineering, and database design
 
 <div align="center">
   <a href="https://www.fiverr.com/s/7YPjrrb"><img src="https://img.shields.io/badge/Start%20a%20Project%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Start a Project on Fiverr"></a>
@@ -108,8 +101,10 @@ I build practical web solutions for businesses that need modern ERP systems, ana
 
 ## Contact
 
-- Fiverr: https://www.fiverr.com/s/7YPjrrb
-- LinkedIn: https://www.linkedin.com/in/ttalha5621
+<div align="center">
+  <a href="https://www.fiverr.com/s/7YPjrrb"><img src="https://img.shields.io/badge/Work%20With%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+  <a href="https://www.linkedin.com/in/ttalha5621"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
 ---
 
