@@ -4,95 +4,119 @@ name: Talha Rizwan
 
 <div align="center">
   <h1>Talha Rizwan</h1>
-  
-  **Full Stack Web Developer | JavaScript Enthusiast | ERP & GIS Solutions Builder**
-  
-  <br />
-  
-  [![Fiverr](https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/7YPjrrb)
-  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ttalha5621)
-  
-  <br />
+  <p><strong>Full Stack Web Developer | UI/UX-Focused | ERP & GIS Solutions Expert</strong></p>
+  <p>Designing polished interfaces and scalable backend systems with modern web technologies.</p>
+
+  <p>
+    <a href="https://www.fiverr.com/s/7YPjrrb"><img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Me on Fiverr"></a>
+    <a href="https://www.linkedin.com/in/ttalha5621"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  </p>
 </div>
 
 ---
 
 ## About Me
 
-I'm a dedicated **Full Stack Web Developer** with over 8 years of experience in crafting elegant, reliable, and scalable digital products. My passion lies in turning complex business problems into intuitive applications that are easy to use, maintain, and built with purpose.
+Experienced Full Stack Web Developer with 8+ years delivering modern, user-centered applications. I focus on clean UI, strong frontend architecture, and robust backend services for ERP, dashboard, and GIS-enabled platforms.
 
-My work blends practical engineering, thoughtful UI/UX design, and strong backend architecture, especially for **ERP systems**, **React applications**, and **GIS-powered platforms**.
-
----
-
-## Technical Expertise
-
-<div style="display: flex; justify-content: space-around;">
-  <div>
-    ### Frontend
-    - JavaScript (ES6+)
-    - ReactJS with Context API, Redux Toolkit
-    - TypeScript for type safety
-    - HTML5 & CSS3 (Sass/SCSS)
-    - Responsive UI design using Bootstrap & Tailwind CSS
-    - Formik and Yup for form validation
-  </div>
-  
-  <div>
-    ### Backend
-    - Node.js with Express.js, NestJS
-    - RESTful APIs and GraphQL
-    - Prisma ORM for database interaction
-    - Authentication with JWT tokens
-    - API architecture design (RESTful, GraphQL)
-    - Microservices using Docker and Kubernetes
-  </div>
-  
-  <div>
-    ### Database & GIS
-    - PostgreSQL for relational data
-    - MongoDB for NoSQL data
-    - Data modeling best practices
-    - Mapbox GL JS for interactive maps
-    - GIS features like geocoding, routing, and spatial queries
-    - Location-based apps using Geospatial data types
-  </div>
-</div>
+- Expert in building responsive and professional user interfaces.
+- Strong ability to convert business requirements into maintainable software.
+- Skilled at integrating frontend design, APIs, databases, and geospatial systems.
 
 ---
 
-## What I'm Building
+## Core Skills
 
-- **End-to-end ERP systems** tailored to real business workflows, integrating various modules such as CRM, HR, Inventory, and Finance.
-- **Scalable ReactJS applications** with clean, maintainable interfaces and state management using Redux Toolkit.
-- **GIS-enabled platforms** leveraging Mapbox GL JS and location intelligence for applications like mapping solutions, route optimization, and geospatial data visualization.
-- **Full-stack products** that connect polished frontend experiences with strong backend systems, ensuring robustness and scalability.
+<table>
+<tr>
+<td>
+
+**Frontend Mastery**
+- JavaScript (ES6+)
+- TypeScript
+- React.js, Redux Toolkit, Context API
+- HTML5, CSS3, Sass / SCSS
+- Tailwind CSS, Bootstrap, Material UI
+- Responsive design, accessibility
+
+</td>
+<td>
+
+**Backend Excellence**
+- Node.js, Express.js, NestJS
+- RESTful APIs, GraphQL
+- Authentication & authorization with JWT
+- Prisma ORM, PostgreSQL, MongoDB
+- Microservices with Docker
+- API design, server-side validation, performance tuning
+
+</td>
+<td>
+
+**Database & GIS**
+- PostgreSQL, MongoDB
+- SQL / NoSQL modeling
+- Mapbox GL JS, Leaflet
+- Geocoding, routing, spatial queries
+- Location intelligence
+- Data visualization
+
+</td>
+</tr>
+</table>
+
+### Languages & Technologies
+- JavaScript, TypeScript, HTML, CSS
+- SQL, NoSQL, JSON, Git
+- Docker, Kubernetes, Linux development
+- Mapbox GL JS, Leaflet, geospatial queries
+- GIS concepts: geocoding, routing, mapping, location intelligence
+
+### Tools & Collaboration
+- VS Code, Git, GitHub
+- Agile workflows, product planning, code reviews
+- Figma, UI prototyping, wireframes
+- Jira, Trello, Slack collaboration
 
 ---
 
-## Services
+## Professional Experience
 
-Need a dependable developer for your next web app, ERP module, dashboard, API, or GIS feature?
+I build practical web solutions for businesses that need modern ERP systems, analytics dashboards, and location-aware applications.
+
+- ERP systems: CRM, HR, Inventory, Finance, and operations modules
+- React applications: scalable state management and polished UX
+- GIS solutions: interactive maps, routing, spatial data visualization
+- Full-stack products: frontend, backend, database, and deployment
+
+---
+
+## Services Offered
+
+- Full-stack web application development
+- UI/UX design and responsive frontend builds
+- ERP and workflow automation systems
+- GIS and mapping application development
+- API design and backend architecture
+- Database modeling and integration
 
 <div align="center">
-  [![Order on Fiverr](https://img.shields.io/badge/Start%20a%20Project%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/7YPjrrb)
+  <a href="https://www.fiverr.com/s/7YPjrrb"><img src="https://img.shields.io/badge/Start%20a%20Project%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Start a Project on Fiverr"></a>
 </div>
 
 ---
 
-## Philosophy
+## Contact
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-I believe great software should feel simple on the surface and solid underneath. My goal is to build solutions that help businesses move faster, work smarter, and scale with confidence.
+- Fiverr: https://www.fiverr.com/s/7YPjrrb
+- LinkedIn: https://www.linkedin.com/in/ttalha5621
 
 ---
 
 <div align="center">
-  **Building practical web solutions, one thoughtful feature at a time.**
+  <strong>Building polished digital experiences with smart engineering and thoughtful UI.</strong>
 </div>
 
---- 
 <footer>
-  <p>© 2023 Talha Rizwan | All rights reserved.</p>
+  <p>© 2026 Talha Rizwan | All rights reserved.</p>
 </footer>
