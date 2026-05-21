@@ -20,13 +20,13 @@
 
 ```typescript
 const talha = {
-  role      : "Full Stack Web Developer",
-  location  : "Pakistan 🇵🇰",
+  role: "Full Stack Web Developer",
+  location: "Pakistan 🇵🇰",
   experience: "8+ years",
-  focus     : ["ERP Systems", "GIS Solutions", "UI/UX-Driven Apps"],
-  stack     : ["React", "Node.js", "NestJS", "PostgreSQL", "Mapbox"],
-  passion   : "Turning complex requirements into elegant, scalable products",
-  available : true  // Open to new projects 🚀
+  focus: ["ERP Systems", "GIS Solutions", "UI/UX-Driven Apps"],
+  stack: ["React", "Node.js", "NestJS", "PostgreSQL", "Mapbox"],
+  passion: "Turning complex requirements into elegant, scalable products",
+  available: true, // Open to new projects 🚀
 };
 ```
 
@@ -110,29 +110,55 @@ const talha = {
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## 📊 &nbsp;Professional Stats
 
 <div align="center">
 
-<a href="https://github.com/ttalha5621">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttalha5621&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="Talha's GitHub Stats"/>
-</a>
+<br/>
+
+![Years Experience](https://img.shields.io/badge/Experience-8%2B%20Years-7C3AED?style=for-the-badge&logo=calendar&logoColor=white)
 &nbsp;
-<a href="https://github.com/ttalha5621">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttalha5621&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="Top Languages"/>
-</a>
+![Projects](https://img.shields.io/badge/Projects%20Delivered-100%2B-FF6C37?style=for-the-badge&logo=rocket&logoColor=white)
+&nbsp;
+![Clients](https://img.shields.io/badge/Happy%20Clients-50%2B-1DBF73?style=for-the-badge&logo=handshake&logoColor=white)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 <br/><br/>
 
-<a href="https://github.com/ttalha5621">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=ttalha5621&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6C37&currStreakLabel=7C3AED&sideLabels=888888&dates=888888&border_radius=10&cache_seconds=86400" alt="GitHub Streak"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Frontend-Expert-7C3AED?style=flat-square&logo=react&logoColor=white" /><br/>
+      <strong>React / TypeScript / Tailwind</strong><br/>
+      <sub>8+ years building pixel-perfect UIs</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Backend-Expert-FF6C37?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+      <strong>Node / NestJS / PostgreSQL</strong><br/>
+      <sub>Scalable APIs & microservices</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/GIS-Specialist-1DBF73?style=flat-square&logo=mapbox&logoColor=white" /><br/>
+      <strong>Mapbox / Leaflet / Spatial DB</strong><br/>
+      <sub>Location intelligence & routing</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/ERP-Architect-0A66C2?style=flat-square&logo=databricks&logoColor=white" /><br/>
+      <strong>Business Systems & Workflows</strong><br/>
+      <sub>Enterprise-grade ERP modules</sub>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/ttalha5621">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ttalha5621&bg_color=0d1117&color=7C3AED&line=7C3AED&point=FF6C37&area=true&area_color=7C3AED&hide_border=true&radius=10" alt="GitHub Activity Graph"/>
-</a>
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -142,12 +168,12 @@ const talha = {
 
 <div align="center">
 
-| 🌐 Full-Stack Development | 🎨 UI / UX Design | 🏢 ERP Modules |
-|:---:|:---:|:---:|
+|            🌐 Full-Stack Development            |                 🎨 UI / UX Design                  |                  🏢 ERP Modules                  |
+| :---------------------------------------------: | :------------------------------------------------: | :----------------------------------------------: |
 | End-to-end web apps from database to deployment | Responsive interfaces, prototypes & design systems | Workflow automation, dashboards & business logic |
 
-| 🗺️ GIS & Mapping | 🔧 API & Backend Engineering |
-|:---:|:---:|
+|                🗺️ GIS & Mapping                 |          🔧 API & Backend Engineering          |
+| :---------------------------------------------: | :--------------------------------------------: |
 | Geospatial features, routing & spatial analysis | Scalable APIs, microservices & database design |
 
 </div>
@@ -160,7 +186,7 @@ const talha = {
 
 <br/>
 
-> *"I don't just write code — I engineer solutions that drive business outcomes."*
+> _"I don't just write code — I engineer solutions that drive business outcomes."_
 
 <br/>
 
