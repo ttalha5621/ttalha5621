@@ -26,13 +26,13 @@
 
 ```typescript
 const talha = {
-  role     : "Full Stack Web Developer",
-  location : "Pakistan 🇵🇰",
+  role: "Full Stack Web Developer",
+  location: "Pakistan 🇵🇰",
   experience: "8+ years",
-  focus    : ["ERP Systems", "GIS Solutions", "UI/UX-Driven Apps"],
-  stack    : ["React", "Node.js", "NestJS", "PostgreSQL", "Mapbox"],
-  passion  : "Turning complex requirements into elegant, scalable products",
-  available : true  // Open to new projects 🚀
+  focus: ["ERP Systems", "GIS Solutions", "UI/UX-Driven Apps"],
+  stack: ["React", "Node.js", "NestJS", "PostgreSQL", "Mapbox"],
+  passion: "Turning complex requirements into elegant, scalable products",
+  available: true, // Open to new projects 🚀
 };
 ```
 
@@ -120,13 +120,17 @@ const talha = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttalha5621&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttalha5621&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&border_radius=10"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttalha5621&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttalha5621&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&border_radius=10"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ttalha5621&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6C37&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=ttalha5621&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6C37&currStreakLabel=7C3AED&sideLabels=aaaaaa&dates=888888&border_radius=10" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttalha5621&theme=tokyonight" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -136,12 +140,12 @@ const talha = {
 
 <div align="center">
 
-| 🌐 Full-Stack Development | 🎨 UI / UX Design | 🏢 ERP Modules |
-|:---:|:---:|:---:|
+|                🌐 Full-Stack Development                |                 🎨 UI / UX Design                  |                  🏢 ERP Modules                  |
+| :-----------------------------------------------------: | :------------------------------------------------: | :----------------------------------------------: |
 | End-to-end web applications from database to deployment | Responsive interfaces, prototypes & design systems | Workflow automation, dashboards & business logic |
 
-| 🗺️ GIS & Mapping | 🔧 API & Backend Engineering |
-|:---:|:---:|
+|                🗺️ GIS & Mapping                 |          🔧 API & Backend Engineering          |
+| :---------------------------------------------: | :--------------------------------------------: |
 | Geospatial features, routing & spatial analysis | Scalable APIs, microservices & database design |
 
 </div>
@@ -154,7 +158,7 @@ const talha = {
 
 <br/>
 
-> *"I don't just write code — I engineer solutions that drive business outcomes."*
+> _"I don't just write code — I engineer solutions that drive business outcomes."_
 
 <br/>
 
