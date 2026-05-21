@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Talha%20Rizwan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ERP%20%7C%20GIS%20Solutions&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header"/>
 
-</div>
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Crafting+Intuitive+UI%2FUX+Experiences+%F0%9F%8E%A8;Mapping+the+World+with+GIS+Solutions+%F0%9F%97%BA%EF%B8%8F;8%2B+Years+of+Full+Stack+Engineering+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
@@ -18,21 +14,19 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## 👨‍💻 &nbsp;About Me
 
 ```typescript
 const talha = {
-  role: "Full Stack Web Developer",
-  location: "Pakistan 🇵🇰",
+  role      : "Full Stack Web Developer",
+  location  : "Pakistan 🇵🇰",
   experience: "8+ years",
-  focus: ["ERP Systems", "GIS Solutions", "UI/UX-Driven Apps"],
-  stack: ["React", "Node.js", "NestJS", "PostgreSQL", "Mapbox"],
-  passion: "Turning complex requirements into elegant, scalable products",
-  available: true, // Open to new projects 🚀
+  focus     : ["ERP Systems", "GIS Solutions", "UI/UX-Driven Apps"],
+  stack     : ["React", "Node.js", "NestJS", "PostgreSQL", "Mapbox"],
+  passion   : "Turning complex requirements into elegant, scalable products",
+  available : true  // Open to new projects 🚀
 };
 ```
 
@@ -120,17 +114,25 @@ const talha = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttalha5621&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&border_radius=10"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttalha5621&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&border_radius=10"/>
+<a href="https://github.com/ttalha5621">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttalha5621&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="Talha's GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/ttalha5621">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttalha5621&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=ttalha5621&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6C37&currStreakLabel=7C3AED&sideLabels=aaaaaa&dates=888888&border_radius=10" alt="GitHub Streak"/>
+<a href="https://github.com/ttalha5621">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=ttalha5621&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6C37&currStreakLabel=7C3AED&sideLabels=888888&dates=888888&border_radius=10&cache_seconds=86400" alt="GitHub Streak"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttalha5621&theme=tokyonight" width="100%" alt="GitHub Activity Graph"/>
+<a href="https://github.com/ttalha5621">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ttalha5621&bg_color=0d1117&color=7C3AED&line=7C3AED&point=FF6C37&area=true&area_color=7C3AED&hide_border=true&radius=10" alt="GitHub Activity Graph"/>
+</a>
 
 </div>
 
@@ -140,12 +142,12 @@ const talha = {
 
 <div align="center">
 
-|                🌐 Full-Stack Development                |                 🎨 UI / UX Design                  |                  🏢 ERP Modules                  |
-| :-----------------------------------------------------: | :------------------------------------------------: | :----------------------------------------------: |
-| End-to-end web applications from database to deployment | Responsive interfaces, prototypes & design systems | Workflow automation, dashboards & business logic |
+| 🌐 Full-Stack Development | 🎨 UI / UX Design | 🏢 ERP Modules |
+|:---:|:---:|:---:|
+| End-to-end web apps from database to deployment | Responsive interfaces, prototypes & design systems | Workflow automation, dashboards & business logic |
 
-|                🗺️ GIS & Mapping                 |          🔧 API & Backend Engineering          |
-| :---------------------------------------------: | :--------------------------------------------: |
+| 🗺️ GIS & Mapping | 🔧 API & Backend Engineering |
+|:---:|:---:|
 | Geospatial features, routing & spatial analysis | Scalable APIs, microservices & database design |
 
 </div>
@@ -158,13 +160,13 @@ const talha = {
 
 <br/>
 
-> _"I don't just write code — I engineer solutions that drive business outcomes."_
+> *"I don't just write code — I engineer solutions that drive business outcomes."*
 
 <br/>
 
-[![Start a Project](https://img.shields.io/badge/🚀%20Start%20a%20Project%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d1117)](https://www.fiverr.com/s/7YPjrrb)
+[![Start a Project](https://img.shields.io/badge/🚀%20Start%20a%20Project%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/7YPjrrb)
 &nbsp;&nbsp;
-[![DM on LinkedIn](https://img.shields.io/badge/💬%20Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/ttalha5621)
+[![DM on LinkedIn](https://img.shields.io/badge/💬%20Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ttalha5621)
 
 <br/>
 
